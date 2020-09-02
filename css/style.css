@@ -21,21 +21,21 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    font: normal 500 15px/2px 'Roboto', cursive;
     text-transform: uppercase;
     padding: 1.7rem;
-    color: var(--title-color);
+    color: #141313;
 }
 
 .header_area .main-menu .navbar-nav .active a{
-    background: var(--gradient-color);
+    background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
 .header_area .main-menu .navbar-nav a:hover{
-    background: gray;
+    background: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
