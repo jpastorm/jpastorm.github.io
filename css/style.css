@@ -236,6 +236,16 @@
     filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
 }
 
+.site-main .project-area .tech-icons {
+    margin-top: 0.5rem;
+}
+
+.site-main .project-area .tech-icon {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.25rem;
+}
+
 
 /* End Project Area */ 
 
