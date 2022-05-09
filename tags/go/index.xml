@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go on jpastorm blog</title>
-    <link>https://jpastorm.dev/tags/go/</link>
+    <link>https://jpastorm.github.io/tags/go/</link>
     <description>Recent content in go on jpastorm blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Oct 2021 11:26:14 +0000</lastBuildDate><atom:link href="https://jpastorm.dev/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 11:26:14 +0000</lastBuildDate><atom:link href="https://jpastorm.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gotube</title>
-      <link>https://jpastorm.dev/post/gotube/</link>
+      <link>https://jpastorm.github.io/post/gotube/</link>
       <pubDate>Sun, 17 Oct 2021 11:26:14 +0000</pubDate>
       
-      <guid>https://jpastorm.dev/post/gotube/</guid>
+      <guid>https://jpastorm.github.io/post/gotube/</guid>
       <description>&lt;p&gt;gotube is a library capable of obtaining youtube metadata through a url, this is possible because the library downloads the html and searches inside the hidden youtube json data.&lt;/p&gt;
 &lt;p&gt;code -&amp;gt; &lt;a href=&#34;https://github.com/jpastorm/gotube&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;</description>
     </item>
