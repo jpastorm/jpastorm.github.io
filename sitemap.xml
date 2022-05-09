@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jpastorm.dev/tags/go/</loc>
+    <lastmod>2022-05-08T23:49:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jpastorm.dev/post/gotube/</loc>
+    <lastmod>2022-05-08T23:49:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jpastorm.dev/</loc>
+    <lastmod>2022-05-08T23:49:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jpastorm.dev/post/</loc>
+    <lastmod>2022-05-08T23:49:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jpastorm.dev/tags/</loc>
+    <lastmod>2022-05-08T23:49:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jpastorm.dev/readme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jpastorm.dev/categories/</loc>
+  </url>
+  
+</urlset>
